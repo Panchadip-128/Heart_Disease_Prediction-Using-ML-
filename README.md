@@ -49,7 +49,7 @@ Usage:
 -------
 Clone the repository:
 
-git clone https://github.com/Panchadip-128/heart-disease-prediction.git
+git clone https://github.com/Panchadip-128/Heart_Disease_Prediction-Using-ML-.git
 cd heart-disease-prediction
 
 Place the heart_disease_data.csv file in the project directory and run the code provided in the ipynb file.
